@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotations example.iml" filepath="$PROJECT_DIR$/Annotations example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation-processor/annotation-processor.iml" filepath="$PROJECT_DIR$/annotation-processor/annotation-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation-processor/annotation-processor-sav.iml" filepath="$PROJECT_DIR$/annotation-processor/annotation-processor-sav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotations/annotations.iml" filepath="$PROJECT_DIR$/annotations/annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistence/persistence.iml" filepath="$PROJECT_DIR$/persistence/persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistence/persistenceReflection.iml" filepath="$PROJECT_DIR$/persistence/persistenceReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotations/sav-annotations.iml" filepath="$PROJECT_DIR$/annotations/sav-annotations.iml" />
+    </modules>
+  </component>
+</project>
